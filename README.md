@@ -11,9 +11,9 @@ Aplicação web simples para sortear aleatóriamente seus amigos no jogo de fim 
 
 ## Tecnologias utilizadas
 
--HTML5
--CSS3
--JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
 
 ## Hora de brincar!!
