@@ -4,16 +4,16 @@ Aplicação web simples para sortear aleatóriamente seus amigos no jogo de fim 
 
 ## Funções
 
--- Adciona nomes de amigos à lista
--- Validação de entrada do usuário
--- Lista de Amigos 
--- Sorteio
+- Adciona nomes de amigos à lista
+- Validação de entrada do usuário
+- Lista de Amigos 
+- Sorteio
 
 ## Tecnologias utilizadas
 
---HTML5
---CSS3
---JavaScript
+-HTML5
+-CSS3
+-JavaScript
 
 
 ## Hora de brincar!!
